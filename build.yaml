@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: nice60
+  - board: xiao nrf52840
 include:
-  - board: glove80_lh
-  - board: glove80_rh
+  - board: tylerdactyl
+  - board: tylerdactyl
